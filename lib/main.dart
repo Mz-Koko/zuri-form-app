@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:formapp/model.dart';
-import 'package:formapp/result.dart';
 import 'form.dart';
 
 void main() => runApp(MaterialApp(
-  home: Result(new Data()),
+  home: FormApp,
 ));
 
 

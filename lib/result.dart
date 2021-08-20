@@ -4,7 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'model.dart';
-import 'main.dart';
+import 'form.dart';
+
 
 class Result extends StatelessWidget {
   final Data data;
